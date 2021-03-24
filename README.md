@@ -1,5 +1,5 @@
 # RDP_VPS
-RDP_VPS RDP VPS GRATIS  
+RDP VPS GRATIS  
 ====RDP_VPS=======   
 - Visit  https://dashboard.ngrok.com to copy NGROK_AUTH_TOKEN 
 - Onpage Github: Settings > Secrets > New repository secret  
